@@ -1,12 +1,6 @@
 ========================================================================
     CONSOLE APPLICATION : Search for duplicate files
 ========================================================================
-Summary: 
-I chose level three because I wanted to challenge my own programming skills. This is my first
-time working with directories and files in this manner and I found it quite fun to do this
-assignment. I started with level 1 and when I was done I did not find it difficult to complete the
-next levels. I have used the Boost library to complete this task.
-
 Goal: 
 The goal was for the program to take an directory location from user input and generate a 
 textfile wich contains the duplicate files and their folders. In this case a duplicate file
