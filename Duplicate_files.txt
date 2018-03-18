@@ -1,0 +1,604 @@
+Filename: aruco.hpp, opencv_aruco330.dll, opencv_aruco330.lib
+	"C:\Users\Trygve\source\repos\ArucoTracker"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+
+
+Filename: opencv_aruco330.dll, opencv_aruco330.lib
+	"C:\Users\Trygve\source\repos\ArucoTracker"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+
+
+Filename: FSM.pch
+	"C:\Users\Trygve\source\repos\BachVoith\FSM\Debug"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM\x64\Debug"
+
+
+Filename: X.txt, Y.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B\BB"
+
+
+Filename: Z.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+
+
+Filename: YY.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B\BB"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\C\CC"
+
+
+Filename: CL.command.1.tlog
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve\Debug\AruckTra.940FC373.tlog"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt\Debug\Programm.D7CCE0A0.tlog"
+
+
+Filename: description, HEAD
+	"C:\Users\Trygve\source\repos\BachVoith\.git"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git"
+
+
+Filename: applypatch-msg.sample, commit-msg.sample, post-update.sample, pre-applypatch.sample, pre-commit.sample, pre-push.sample, pre-rebase.sample, pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: commit-msg.sample, post-update.sample, pre-applypatch.sample, pre-commit.sample, pre-push.sample, pre-rebase.sample, pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: post-update.sample, pre-applypatch.sample, pre-commit.sample, pre-push.sample, pre-rebase.sample, pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: pre-applypatch.sample, pre-commit.sample, pre-push.sample, pre-rebase.sample, pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: pre-commit.sample, pre-push.sample, pre-rebase.sample, pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: pre-push.sample, pre-rebase.sample, pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: pre-rebase.sample, pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: pre-receive.sample, prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: prepare-commit-msg.sample, update.sample
+	"C:\Users\Trygve\source\repos\BachVoith\.git\hooks"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\hooks"
+
+
+Filename: exclude
+	"C:\Users\Trygve\source\repos\BachVoith\.git\info"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\info"
+
+
+Filename: 6284ff06fc5acea1feaea5dde6d3f6e425c6b8
+	"C:\Users\Trygve\source\repos\BachVoith\.git\objects\68"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\objects\68"
+
+
+Filename: c0086de751bac3d47208b77d76b82d78f26702
+	"C:\Users\Trygve\source\repos\BachVoith\.git\objects\87"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\objects\87"
+
+
+Filename: 05a839def24829d348825ce6303a5538707527
+	"C:\Users\Trygve\source\repos\BachVoith\.git\objects\b0"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\objects\b0"
+
+
+Filename: 27597c6f9b14fe95addff6cbb9b3fe762f9528
+	"C:\Users\Trygve\source\repos\BachVoith\.git\objects\bd"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\.git\objects\bd"
+
+
+Filename: taxDoc.txt
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\Release"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\s305106_TopTaxCalc"
+
+
+Filename: .suo
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\.vs\AruckTracker_Trygve\v15"
+	"C:\Users\Trygve\source\repos\WebProject1\.vs\WebProject1\v15"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+
+
+Filename: X.txt, Y.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B\BB"
+
+
+Filename: Z.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\C"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+
+
+Filename: X.txt, Y.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B\BB"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\C\CC"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: ReadMe.txt, stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: ReadMe.txt
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+
+
+Filename: ReadMe.txt
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\s305106_TopTaxCalc"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\s305106_TopTaxCalc"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\s305106_TopTaxCalc"
+
+
+Filename: ReadMe.txt
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\Variabler_bach\Variabler_bach"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\s305106_TopTaxCalc"
+
+
+Filename: stdafx.cpp, stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\Variabler_bach\Variabler_bach"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\s305106_TopTaxCalc"
+
+
+Filename: stdafx.h, targetver.h
+	"C:\Users\Trygve\source\repos\AruckTracker_Trygve\AruckTracker_Trygve"
+	"C:\Users\Trygve\source\repos\ArucoTracker\ArucoTracker"
+	"C:\Users\Trygve\source\repos\Assignment2\Assignment2"
+	"C:\Users\Trygve\source\repos\BachVoith\FSM"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test"
+	"C:\Users\Trygve\source\repos\ConsoleApplication1\ConsoleApplication1"
+	"C:\Users\Trygve\source\repos\ConsoleApplication2\ConsoleApplication2"
+	"C:\Users\Trygve\source\repos\ConsoleApplication3\ConsoleApplication3"
+	"C:\Users\Trygve\source\repos\KalmanTest\KalmanTest"
+	"C:\Users\Trygve\source\repos\ProgramStruktur1\ProgramStruktur1"
+	"C:\Users\Trygve\source\repos\ProgrammingTest\ProgrammingTest"
+	"C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\ProgrammingTest_TrygveSLangfeldt"
+	"C:\Users\Trygve\source\repos\Variabler_bach\Variabler_bach"
+	"C:\Users\Trygve\source\repos\iTaxFunc\iTaxFunc"
+	"C:\Users\Trygve\source\repos\s305106_TopTaxCalc\s305106_TopTaxCalc"
+
+

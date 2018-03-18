@@ -1,0 +1,5 @@
+﻿  ProgrammingTestTrygveSLangfeldt.cpp
+c:\users\trygve\source\repos\programmingtest_trygveslangfeldt\programmingtest_trygveslangfeldt\programmingtesttrygveslangfeldt.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\trygve\source\repos\programmingtest_trygveslangfeldt\programmingtest_trygveslangfeldt\programmingtesttrygveslangfeldt.cpp(223): warning C4018: '<': signed/unsigned mismatch
+  ProgrammingTest_TrygveSLangfeldt.vcxproj -> C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\Debug\ProgrammingTest_TrygveSLangfeldt.exe
+  ProgrammingTest_TrygveSLangfeldt.vcxproj -> C:\Users\Trygve\source\repos\ProgrammingTest_TrygveSLangfeldt\Debug\ProgrammingTest_TrygveSLangfeldt.pdb (Partial PDB)

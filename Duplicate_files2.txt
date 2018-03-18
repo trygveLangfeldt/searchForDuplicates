@@ -1,0 +1,29 @@
+Filename: Z.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+
+
+Filename: YY.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B\BB"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\C\CC"
+
+
+Filename: Y.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B\BB"
+
+
+Filename: Z.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\C"
+
+
+Filename: X.txt, Y.txt
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\A"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\B\BB"
+	"C:\Users\Trygve\source\repos\Boost_test\Boost_test\MyFolder\C\CC"
+
+
