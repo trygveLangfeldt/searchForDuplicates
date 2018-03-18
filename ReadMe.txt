@@ -1,5 +1,5 @@
 ========================================================================
-    CONSOLE APPLICATION : Programming Test for Infront(Level 3)
+    CONSOLE APPLICATION : Search for duplicate files
 ========================================================================
 Summary: 
 I chose level three because I wanted to challenge my own programming skills. This is my first
